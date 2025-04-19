@@ -2,6 +2,8 @@
 
 PlotChain is a decentralized land record management system built using blockchain technology to ensure transparency, security, and trust in property transactions. By leveraging smart contracts, PlotChain makes land ownership records immutable and verifiable, reducing fraud, disputes, and inefficiencies in the real estate ecosystem.
 
+🎥 Project Demo: https://youtu.be/j3GWxblpEzM
+
 ---
 ---
 
